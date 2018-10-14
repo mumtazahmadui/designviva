@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:700');
+@import url('https://fonts.googleapis.com/css?family=Lato:300');
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('bootstrap/glyphicons-halflings-regular.eot');
+  src: url('bootstrap/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('bootstrap/glyphicons-halflings-regular.woff') format('woff'), url('bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('bootstrap/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+
+.site-header {
+    width: 100%;
+    background: 0 0;
+    margin: 0 auto;
+}
+
+.row {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 17px;
+  margin-top: 10px;
+  white-space: normal;
+  width: auto;
+  letter-spacing: -.045em;
+  align-content: center;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.navbar-brand {
+  font-size: 28px;
+  letter-spacing: -0.1em;
+}
+a {
+  color: #555;
+}
+a:hover {
+  color: #555;
+}
+a:focus {
+  color: #555;
+  background-color: white;
+}
+i {
+  margin-right: 3px;
+  margin-left: 3px;
+}
+.navbar-toggle
+{
+    float:left;
+    border: transparent;
+}
+.navbar {
+  background: transparent;
+}
+.icon-bar
+{
+    display:block;
+    width:22px;
+    height:2px;
+    border-radius:1px;
+    border:1px solid #444;
+}
+.jumbotron {
+  font-family: 'Josefin Sans', sans-serif;
+  color: rgb(100, 112, 48);
+  background: linear-gradient(to bottom, white, #f2f2f2);
+}
+h1 {
+  letter-spacing: -0.1em;
+}
+h1:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 4.5%;
+    height: 75px;
+    border-bottom: 3px solid rgb(100, 112, 48);
+}
+.heading-h1 {
+    margin-top: 0;
+    margin-bottom: 1.6rem;
+    font-weight: 400;
+    line-height: 1.05;
+    letter-spacing: -.045em;
+}
+.logoimg{
+  margin-top: -20px;
+  transform: scale(0.7);
+}
+.pop {
+  padding-top: 12px;
+  color: #555;
+  max-width: 20em;
+  margin-left: 25px;
+  font-family: 'Lato', sans-serif;
+}
+p {
+    margin-top: 10px;
+}
+.btn {
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: rgb(100, 112, 48);
+  font-size: 22px;
+}
+.btn:hover {
+  color: white;
+  opacity: 0.7;
+}
+#link {
+  color: rgb(100, 112, 48);
+  font-family: 'Josefin Sans', sans-serif;
+}
+#link:hover {
+  border-bottom: 2px solid  rgb(100, 112, 48);
+  border-bottom-height: 20px;
+}
+.vodeo {
+  margin-top: 320px;
+}
+i {
+  font-size: 24px;
+}
+.logg {
+  font-size: 21px;
+}
+#logg {
+  font-size: 26px;
+}
+#boton {
+  margin-top: 10px;
+  font-size: 14px;
+}
+#botonn {
+  font-size: 12px;
+}
+.smth {
+   padding-top: 20px;
+   font-family: 'Lato', sans-serif;
+   letter-spacing: 1px;
+}
+.box:hover {
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  color:  rgb(100, 112, 48);
+}

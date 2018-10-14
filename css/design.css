@@ -1,0 +1,251 @@
+#show {
+  margin-top: 20px;
+  background-color: white;
+  color: #666666;
+  border: 2px solid #666666;
+  font-size: 18px;
+
+}
+#show:hover {
+  color: #a0b34d;
+  border: 2px solid rgb(100, 112, 48);
+}
+#show:after {
+    content: "";
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    height: 95px;
+    border-bottom: 2px solid #666666;
+}
+#des {
+  margin-top: 80px;
+}
+.rar {
+  color: #4d4d4d;
+  font-size: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: -.045em;
+}
+.rar:after {
+      content: "";
+    position: absolute;
+    width: 5.5%;
+    left: 4.5%;
+    height: 55px;
+    border-bottom: 4px solid #4d4d4d;
+}
+.pops {
+  font-size: 18px;
+  margin-top: 20px;
+  color: #555;
+  max-width: 20em;
+  margin-left: 25px;
+  font-family: 'Lato', sans-serif;
+}
+#star {
+  margin-top: 20px;
+  color: #ff7e65;
+  font-size: 28px;
+}
+#color {
+  background: linear-gradient(#cccccc, #ff7e65);
+background-clip: text;
+  color: transparent;
+}
+.line {
+      content: "";
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    height: 65px;
+    border-bottom: 2px solid #666666;
+}
+.video {
+  margin-top: 70px;
+}
+h3 {
+  font-size: 30px;
+  color: #ce283D;
+}
+h3:after {
+    content: "";
+    position: absolute;
+    width: 4.5%;
+    left: 3.5%;
+    height: 55px;
+    border-bottom: 4px solid #4d4d4d;
+}
+#sec {
+  color: #81a3e6;
+}
+video.comm {
+  margin-top: 10px;
+}
+.note {
+  font-size: 16px;
+  margin-top: 20px;
+  color: #555;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 1px;
+}
+#link1 {
+  background-color: #ce283D;
+}
+#links1 {
+  color: #ce283D;
+}
+#link2 {
+  background-color: #81a3e6;
+}
+#links2 {
+  color: #81a3e6;
+}
+#links1:hover {
+  border-bottom: 1px solid #ce283D;
+}
+#links2:hover {
+  border-bottom: 1px solid #81a3e6;
+}
+#papp {
+  margin-top: 150px;
+}
+.fr {
+  color: #202834;
+  font-size: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: -.045em;
+}
+.fr:after {
+    content: "";
+    position: absolute;
+    width: 4.5%;
+    left: 3.5%;
+    height: 55px;
+    border-bottom: 4px solid #202834;
+}
+.pap {
+  color: #202834;
+  margin-top: 36px;
+  margin-left: 25px;
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  letter-spacing: 1px;
+}
+#find {
+  background-color: #202834;
+}
+.margin {
+  margin-top: 150px;
+}
+.margin:after {
+    content: "";
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    height: 105px;
+    border-bottom: 2px solid #666666;
+}
+h4 {
+  color: #752873;
+  font-size: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: -.045em;
+}
+h4:after {
+    content: "";
+    position: absolute;
+    width: 4.5%;
+    left: 3.5%;
+    height: 55px;
+    border-bottom: 4px solid #752873;
+}
+.p {
+  margin-top: 40px;
+  margin-left: 20px;
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  letter-spacing: 1px;
+}
+#learn {
+  margin-top: 20px;
+  color: #752873;
+}
+#learn:hover {
+  border-bottom: 1px solid #752873;
+}
+#i2 {
+  opacity: 0.7;
+}
+#i3 {
+  opacity: 0.4;
+}
+#fa1 {
+  color: #752873;
+  margin-top: 30px;
+}
+#fa2, #fa3 {
+  color: #e6e6e6;
+}
+.img-circle {
+  margin-top: 100px;
+}
+.que {
+  margin-top: 120px;
+}
+.que:after {
+    content: "";
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    height: 105px;
+    border-bottom: 2px solid #666666;
+}
+h5 {
+  margin-top: 40px;
+  color: #CA424D;
+  font-size: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: -.045em;
+}
+h5:after {
+    content: "";
+    position: absolute;
+    width: 4.5%;
+    left: 3.5%;
+    height: 55px;
+    border-bottom: 4px solid #CA424D;
+}
+.sup {
+  margin-top: 30px;
+  margin-left: 20px;
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  letter-spacing: 1px;
+}
+.num {
+  color: #CA424D;
+  font-size: 20px;
+}
+.dino {
+  margin-top: 150px;
+}
+.six {
+  color: #999;
+  font-style: italic;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 1px;
+  position: relative;
+}
+.six:before {
+  content:"\00af";
+}
+#get {
+  background-color: #FFACA9;
+}
+.hun {
+  color: #555;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 1px;
+  font-size: 15px;
+}
